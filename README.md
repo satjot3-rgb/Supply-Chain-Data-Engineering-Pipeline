@@ -124,12 +124,13 @@ An additional **window function analysis** computes month-over-month sales growt
 
 ```
 supply-chain-pipeline/
-├── Supply_Chain_Pipeline.ipynb     # Main PySpark notebook
-├── monthly_sales.csv               # Gold: Monthly revenue output
-├── category_sales.csv              # Gold: Category performance output
-├── shipping_performance.csv        # Gold: Shipping delay output
-├── top_customers.csv               # Gold: Top customers output
-└── README.md                       # Project documentation
+├── notebook / Supply_Chain_Pipeline.ipynb       # Main PySpark notebook
+├── data / monthly_sales.csv                     # Gold: Monthly revenue output
+├── data / category_sales.csv                    # Gold: Category performance output
+├── data / shipping_performance.csv              # Gold: Shipping delay output
+├── data / top_customers.csv                     # Gold: Top customers output
+├── dashboard / temp 
+└──README.md                       # Project documentation
 
 # Note: Dataset not included — download from the Kaggle link above
 ```
