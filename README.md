@@ -150,14 +150,13 @@ supply-chain-pipeline/
 
 ## Power BI Integration
 
-The four Gold layer CSV files serve as data sources for the Power BI dashboard. Load each file using **Get Data → Text/CSV** in Power BI Desktop.
+### What Each Page Answers
 
-| CSV File | Recommended Visual |
-|----------|--------------------|
-| `monthly_sales.csv` | Line chart — Revenue trend over time (Year/Month on X axis) |
-| `category_sales.csv` | Clustered bar chart — Revenue vs Profit by category |
-| `shipping_performance.csv` | Bar chart — Average delay by shipping mode |
-| `top_customers.csv` | Table or treemap — Top N customers by total spend |
+| Page | Business Question |
+|------|-------------------|
+| Revenue Overview | How did revenue trend month-by-month? Which year performed best? |
+| Category Performance | Which product categories drive the most revenue and profit? Which have the best margin? |
+| Logistics & Customers | Are shipments on time? Which customers spend the most? How is spend distributed? |
 
 ---
 
