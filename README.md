@@ -41,17 +41,17 @@ Across **21K customers**, only **983 spend more than $5,000**. The spend distrib
 ### Page 1 — Revenue Overview
 *How did revenue trend over time, and which years performed best?*
 
-![Revenue Overview](images/01_revenue_overview.png)
+![Revenue Overview](01_revenue_overview.png)
 
 ### Page 2 — Category Performance
 *Which categories drive revenue and profit, and where are the margins?*
 
-![Category Performance](images/02_category_performance.png)
+![Category Performance](02_category_performance.png)
 
 ### Page 3 — Shipping & Customers
 *Are shipments on time, and how is customer spend distributed?*
 
-![Shipping & Customers](images/03_shipping_and_customers.png)
+![Shipping & Customers](03_shipping_and_customers.png)
 
 ---
 
